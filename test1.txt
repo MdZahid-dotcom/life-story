@@ -4,5 +4,6 @@ I completed my SSC in 2018
 I completed my HSC in 2020
 I was admitted to the BSc in CSE in 2021
 Now I'm learning Web development
-I satarted learning web development 21st march 2026
+I started learning web development on 21st March 2026
 I love Bangladesh
+Logo alignment is centered
